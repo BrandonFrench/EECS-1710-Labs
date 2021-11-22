@@ -27,3 +27,15 @@
 #meteor[1,2]: https://pngimg.com/image/63955\
 
 #https://in.pinterest.com/pin/361836151306628189/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#None of the images for the customPixel assignment were produced by me. Here are my references:
+
+#tv.png: https://imgflip.com/memetemplate/146184374/Old-TV
+
+#yellowstone.jpg: https://wallpapersafari.com/winter-in-yellowstone-wallpaper/
+
+#tokyo.jpg: https://uhdwallpapers.org/wallpaper/tokyo-tower_69968/1920x1080/
+
+#remote.png: https://www.linsar.com/product/accessories/remote-control/
