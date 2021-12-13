@@ -50,7 +50,6 @@
 
 #Visual Music References
 
-
 Modified Code/Inspiration:
 
 Particle: https://processing.org/examples/simpleparticlesystem.html
