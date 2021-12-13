@@ -34,8 +34,15 @@
 
 #tv.png: https://imgflip.com/memetemplate/146184374/Old-TV
 
-#yellowstone.jpg: https://wallpapersafari.com/winter-in-yellowstone-wallpaper/
+#remote.png: https://www.linsar.com/product/accessories/remote-control/
+
+#yosemite.jpg: https://wallpapersafari.com/winter-in-yellowstone-wallpaper/
 
 #tokyo.jpg: https://uhdwallpapers.org/wallpaper/tokyo-tower_69968/1920x1080/
 
-#remote.png: https://www.linsar.com/product/accessories/remote-control/
+#grandCanyon.jpg: https://imgur.com/gallery/9uyHI
+
+#paris.jpg: https://fr.sputniknews.com/20211021/une-deputee-lrem-agressee-et-depouillee-en-pleine-rue-a-paris-1052252481.html
+
+#zermatt.jpg: https://yootravel.ch/destination/europe/suisse/zermatt/europe-suisse-zermatt/
+
