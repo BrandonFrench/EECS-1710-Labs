@@ -54,7 +54,9 @@
 Modified Code/Inspiration:
 
 Particle: https://processing.org/examples/simpleparticlesystem.html
+
 Additive Wave: https://processing.org/examples/noisewave.html
+
 Sound Library Examples: https://processing.org/tutorials/sound/#example-1-2-synthesizer
 
 
