@@ -46,3 +46,16 @@
 
 #zermatt.jpg: https://yootravel.ch/destination/europe/suisse/zermatt/europe-suisse-zermatt/
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Visual Music References
+
+
+Modified Code/Inspiration:
+
+Particle: https://processing.org/examples/simpleparticlesystem.html
+Additive Wave: https://processing.org/examples/noisewave.html
+Sound Library Examples: https://processing.org/tutorials/sound/#example-1-2-synthesizer
+
+
+
